@@ -1,69 +1,79 @@
 <h1 align="center">Hi 👋, I'm Amol Kadam</h1>
-<h3 align="center">A Passionate Full Stack Developer from India</h3>
+<h3 align="center">🚀 Passionate Full Stack Developer | Building Scalable, Efficient Applications</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amolkadam5256&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=amolkadam5256&label=Profile%20views&color=0e75b6&style=flat" alt="amolkadam5256" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
-I am Amol Kadam, a Full Stack Developer with expertise in building scalable and efficient applications. I am passionate about creating solutions that solve real-world problems and leave a lasting impact. From writing clean, maintainable code to collaborating on exciting projects, I strive to deliver excellence in every aspect of development.
-
-💻 Currently, I am working on:  
-- **DoctorDom-App** – A Doctor Appointment Booking System.  
-- Advancing my backend skills in **Node.js**, **Spring Boot**, and **Gradle**.  
-- Exploring **AI integration** into projects.  
-
-🌟 My goal: To become a proficient **Java Full Stack Developer** and create applications that make a difference.
+### 🌟 About Me   
+💻 I am a **Full Stack Developer** from India with expertise in both **frontend** and **backend** technologies.  
+🎯 I enjoy creating **dynamic, responsive**, and **user-friendly web applications** that solve real-world problems.  
+🌱 Currently learning **AI integration** into web projects and mastering advanced **backend technologies**.  
+📬 **Contact Me:** amolkadam1274@gmail.com  
 
 ---
 
-### 💡 Technologies & Tools
+### 🛠️ Skills & Technologies
 
-Here are the tools and technologies I work with:
+#### 👨‍💻 Frontend Skills
+- **HTML5**: Semantic, clean, and optimized structure.
+- **CSS3**: Advanced styling with animations, transitions, and layouts.
+- **Tailwind CSS**: Utility-first styling for modern designs.
+- **Bootstrap**: Rapid UI prototyping and grid systems.
+- **JavaScript (ES6+)**: Interactivity, DOM manipulation, and modern features.
+- **React.js**: Component-based architecture, hooks, and state management.
+- **SCSS/Sass**: Modular and maintainable styling.
+- **jQuery**: Simplified DOM manipulation and AJAX.
 
-#### 🌐 Frontend
-- **Languages:** HTML, CSS, JavaScript
-- **Frameworks & Libraries:** React.js, Bootstrap, Tailwind CSS, SCSS, jQuery
-- **Tools:** Figma, Framer, Git
+#### 🖥️ Backend & Database Skills
+- **Java**: Core Java, Object-Oriented Programming, Multithreading, Collections, and Exception Handling.
+- **Spring Boot**: REST APIs, dependency injection, and application security.
+- **Node.js**: Backend logic and server-side scripting.
+- **MySQL**: Relational database design and optimization.
+- **MongoDB**: NoSQL database for modern applications.
+- **PL/SQL**: Stored procedures, triggers, and database logic.
 
-#### 🛠️ Backend
-- **Languages:** Java, Node.js
-- **Frameworks & Tools:** Spring Boot, Gradle, MySQL, Oracle, PL/SQL
-
-#### 📖 Others
-- Version Control: Git, GitHub
-- UI/UX Design: Adobe Illustrator, Figma
-
----
-
-### 📂 Featured Projects
-
-#### [DoctorDom-App](https://github.com/amolkadam5256/DoctorDom-App)
-A full-stack MERN application for doctor appointment bookings with multiple authentication levels and payment gateway integration.
-
-#### Gym Reservation Bot  
-Automates gym slot bookings using Python, Selenium, and Google Cloud Console.  
-
-#### Ticket Price Calculator  
-An Android app (built with Java and Android Studio) to calculate ticket prices for NYC museum trips.
-
-#### Banking Transaction Management  
-A GUI-based system developed with JavaFX for simulating deposit, withdrawal, and account management functionalities.
+#### 🧰 Tools & Frameworks
+- **Git & GitHub**: Version control and collaboration.
+- **Gradle**: Build automation for Java projects.
+- **npm & Vite**: Dependency management and frontend tooling.
+- **VS Code & IntelliJ IDEA**: IDEs for efficient development.
 
 ---
 
-### ✨ Connect With Me
+### 🌐 Projects  
+1. **DoctorDom-App** 🌟  
+   *A full-stack MERN application for doctor appointment booking, with multiple authentication levels and integrated payment gateways.*  
+   [GitHub Repository](https://github.com/amolkadam5256/DoctorDom-App)
 
-- 📧 Email: **[amolkadam1274@gmail.com](mailto:amolkadam1274@gmail.com)**
-- 💼 Portfolio: *[Coming Soon!]*
+2. **Gym Reservation Bot** 🏋️  
+   *Automates gym slot reservations using Python, Selenium, and Google Cloud Console.*
+
+3. **Transaction Management GUI** 💳  
+   *JavaFX-based GUI for banking transactions such as deposits, withdrawals, and account listings.*
+
+4. **Ticket Price Calculator App** 🎫  
+   *An Android app for calculating ticket prices using Java and Android Studio.*
 
 ---
 
-### 🔧 Languages and Tools
+### 📈 My GitHub Stats
 
-<p align="left">
+![Amol Kadam's GitHub stats](https://github-readme-stats.vercel.app/api?username=amolkadam5256&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amolkadam5256&layout=compact&theme=radical)
+
+---
+
+### 💡 Connect with Me  
+- 📧 **Email**: [amolkadam1274@gmail.com](mailto:amolkadam1274@gmail.com)  
+- 💼 **Portfolio**: *[Coming Soon!]*  
+
+---
+
+### 🔧 Languages and Tools  
+<p align="left">  
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   </a>
@@ -101,17 +111,7 @@ A GUI-based system developed with JavaFX for simulating deposit, withdrawal, and
 
 ---
 
-### 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amolkadam5256&show_icons=true&theme=radical" alt="Amol's GitHub Stats" />
-</p>
-
----
-
-### 🌟 Fun Fact
-I’m not just a developer—I’m also a blogger, problem solver, photographer, swimmer, and documentary enthusiast!
-
----
+### 🌟 Fun Fact  
+I’m not just a developer—I’m also a blogger, problem solver, photographer, swimmer, and documentary enthusiast! 🎥🌊📸  
 
 Feel free to explore my repositories and connect with me for collaboration opportunities! 😊
