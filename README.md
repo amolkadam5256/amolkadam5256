@@ -11,51 +11,51 @@
 💻 I am a **Full Stack Developer** from India with expertise in both **frontend** and **backend** technologies.  
 🎯 I enjoy creating **dynamic, responsive**, and **user-friendly web applications** that solve real-world problems.  
 🌱 Currently learning **AI integration** into web projects and mastering advanced **backend technologies**.  
-📬 **Contact Me:** amolkadam1274@gmail.com  
+📬 **Contact Me**: [amolkadam1274@gmail.com](mailto:amolkadam1274@gmail.com)
 
 ---
 
 ### 🛠️ Skills & Technologies
 
 #### 👨‍💻 Frontend Skills
-- **HTML5**: Semantic, clean, and optimized structure.
-- **CSS3**: Advanced styling with animations, transitions, and layouts.
-- **Tailwind CSS**: Utility-first styling for modern designs.
-- **Bootstrap**: Rapid UI prototyping and grid systems.
-- **JavaScript (ES6+)**: Interactivity, DOM manipulation, and modern features.
-- **React.js**: Component-based architecture, hooks, and state management.
-- **SCSS/Sass**: Modular and maintainable styling.
-- **jQuery**: Simplified DOM manipulation and AJAX.
+- **HTML5**: Semantic, clean, and optimized structure. 🌐
+- **CSS3**: Advanced styling with animations, transitions, and layouts. ✨
+- **Tailwind CSS**: Utility-first styling for modern designs. 🖌️
+- **Bootstrap**: Rapid UI prototyping and grid systems. 🏗️
+- **JavaScript (ES6+)**: Interactivity, DOM manipulation, and modern features. 💡
+- **React.js**: Component-based architecture, hooks, and state management. 🔄
+- **SCSS/Sass**: Modular and maintainable styling. 🧑‍💻
+- **jQuery**: Simplified DOM manipulation and AJAX. ⚡
 
 #### 🖥️ Backend & Database Skills
-- **Java**: Core Java, Object-Oriented Programming, Multithreading, Collections, and Exception Handling.
-- **Spring Boot**: REST APIs, dependency injection, and application security.
-- **Node.js**: Backend logic and server-side scripting.
-- **MySQL**: Relational database design and optimization.
-- **MongoDB**: NoSQL database for modern applications.
-- **PL/SQL**: Stored procedures, triggers, and database logic.
+- **Java**: Core Java, Object-Oriented Programming, Multithreading, Collections, and Exception Handling. ☕
+- **Spring Boot**: REST APIs, dependency injection, and application security. 🔒
+- **Node.js**: Backend logic and server-side scripting. 🖧
+- **MySQL**: Relational database design and optimization. 💾
+- **MongoDB**: NoSQL database for modern applications. 🗄️
+- **PL/SQL**: Stored procedures, triggers, and database logic. 🔐
 
 #### 🧰 Tools & Frameworks
-- **Git & GitHub**: Version control and collaboration.
-- **Gradle**: Build automation for Java projects.
-- **npm & Vite**: Dependency management and frontend tooling.
-- **VS Code & IntelliJ IDEA**: IDEs for efficient development.
+- **Git & GitHub**: Version control and collaboration. 🔄
+- **Gradle**: Build automation for Java projects. 🛠️
+- **npm & Vite**: Dependency management and frontend tooling. 📦
+- **VS Code & IntelliJ IDEA**: IDEs for efficient development. 💻
 
 ---
 
 ### 🌐 Projects  
 1. **DoctorDom-App** 🌟  
    *A full-stack MERN application for doctor appointment booking, with multiple authentication levels and integrated payment gateways.*  
-   [GitHub Repository](https://github.com/amolkadam5256/DoctorDom-App)
+   [GitHub Repository](https://github.com/amolkadam5256/DoctorDom-App) 📅
 
-2. **Gym Reservation Bot** 🏋️  
-   *Automates gym slot reservations using Python, Selenium, and Google Cloud Console.*
+2. **Gym Reservation Bot** 🏋️‍♂️  
+   *Automates gym slot reservations using Python, Selenium, and Google Cloud Console.* 🤖
 
 3. **Transaction Management GUI** 💳  
-   *JavaFX-based GUI for banking transactions such as deposits, withdrawals, and account listings.*
+   *JavaFX-based GUI for banking transactions such as deposits, withdrawals, and account listings.* 🏦
 
 4. **Ticket Price Calculator App** 🎫  
-   *An Android app for calculating ticket prices using Java and Android Studio.*
+   *An Android app for calculating ticket prices using Java and Android Studio.* 📱
 
 ---
 
@@ -68,7 +68,7 @@
 
 ### 💡 Connect with Me  
 - 📧 **Email**: [amolkadam1274@gmail.com](mailto:amolkadam1274@gmail.com)  
-- 💼 **Portfolio**: *[Coming Soon!]*  
+- 💼 **Portfolio**: *[Coming Soon!]* ✨  
 
 ---
 
@@ -133,21 +133,14 @@
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
   </a>  
-  <a href="https://swagger.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="Swagger" width="40" height="40"/>
-  </a>  
-  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
-  </a>  
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   </a>  
 </p>
 
-
 ---
 
-### 🌟 Fun Fact  
-I’m not just a developer—I’m also a blogger, problem solver, photographer, swimmer, and documentary enthusiast! 🎥🌊📸  
-
-Feel free to explore my repositories and connect with me for collaboration opportunities! 😊
+### 📬 Let's Connect!
+- **LinkedIn**: [Amol Kadam](https://www.linkedin.com/in/amolkadam/)  
+- **GitHub**: [Amol Kadam](https://github.com/amolkadam5256)  
+- **Email**: [amolkadam1274@gmail.com](mailto:amolkadam1274@gmail.com)  
