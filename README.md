@@ -141,6 +141,6 @@
 ---
 
 ### 📬 Let's Connect!
-- **LinkedIn**: [Amol Kadam][(https://www.linkedin.com/in/amolkadam/) ](https://www.linkedin.com/in/amolkadam77/) 
+- **LinkedIn**: [Amol Kadam](https://www.linkedin.com/in/amolkadam77/) 
 - **GitHub**: [Amol Kadam](https://github.com/amolkadam5256)  
 - **Email**: [amolkadam1274@gmail.com](mailto:amolkadam1274@gmail.com)  
